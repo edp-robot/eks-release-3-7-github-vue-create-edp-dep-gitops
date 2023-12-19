@@ -1,0 +1,1 @@
+1. Application vue-create-edp-dep-gitops has been successfully deployed!!
